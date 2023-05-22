@@ -1,0 +1,85 @@
+/* Estilos para el encabezado */
+header {
+  background-color: #2196F3;
+  color: #FFFFFF;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Estilos para el menú de navegación */
+nav {
+  background-color: #03A9F4;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  color: #FFFFFF;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #0288D1;
+}
+
+/* Estilos para el contenido principal */
+main {
+  background-color: #E1F5FE;
+  color: #333333;
+  padding: 20px;
+}
+
+/* Estilos para el pie de página */
+footer {
+  background-color: #607D8B;
+  color: #FFFFFF;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Otros estilos */
+h1 {
+  font-size: 36px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+/* Nuevos colores */
+a {
+  color: #03A9F4;
+}
+
+a:hover {
+  color: #0288D1;
+}
+
+button {
+  background-color: #4FC3F7;
+  color: #FFFFFF;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #29B6F6;
+}
